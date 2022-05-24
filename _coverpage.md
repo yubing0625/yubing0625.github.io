@@ -6,5 +6,5 @@
 
 ## 记住，自己，一定要善用 `Ctrl+F` 哦！
 
-<!--[**联系作者**](https://github.com/rd2coding/Road2Coding)-->
+[**云笔记**](http://101.42.158.167)
 [**开启阅读**](README.md)

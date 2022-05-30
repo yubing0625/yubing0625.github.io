@@ -7,5 +7,5 @@
 ## 记住，自己，一定要善用 `Ctrl+F` 哦！
 
 [**云笔记**](http://101.42.158.167)
-[**开启阅读**](README.md)
 [**个人博客**](https://yubing0625.herokuapp.com)
+[**开启阅读**](README.md)

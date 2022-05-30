@@ -19,5 +19,6 @@
 # **待定**
 ---
 
-- [**解决Sourcetree 无法获取 GitHub 远端组织中的仓库**](https://ganzhixiong.com/p/a1fb3034/)
+- [解决Sourcetree 无法获取 GitHub 远端组织中的仓库](https://ganzhixiong.com/p/a1fb3034/)
 - [如何通俗易懂地理解什么叫泛型？](https://baijiahao.baidu.com/s?id=1668883931864701047&wfr=spider&for=pc)
+- [Mac 下的 C++ 开发环境 XCODE和其他介绍](https://zhuanlan.zhihu.com/p/456002142)

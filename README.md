@@ -22,3 +22,5 @@
 - [解决Sourcetree 无法获取 GitHub 远端组织中的仓库](https://ganzhixiong.com/p/a1fb3034/)
 - [如何通俗易懂地理解什么叫泛型？](https://baijiahao.baidu.com/s?id=1668883931864701047&wfr=spider&for=pc)
 - [Mac 下的 C++ 开发环境 XCODE和其他介绍](https://zhuanlan.zhihu.com/p/456002142)
+- [Python知识点：瀑布式开发 vs 迭代式开发](https://blog.csdn.net/m0_59164304/article/details/123283848)
+- [关于&的引用与取地址 区分](https://blog.csdn.net/qq_39938666/article/details/113141651)

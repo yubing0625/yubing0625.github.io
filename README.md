@@ -25,3 +25,4 @@
 - [Python知识点：瀑布式开发 vs 迭代式开发](https://blog.csdn.net/m0_59164304/article/details/123283848)
 - [关于&的引用与取地址 区分](https://blog.csdn.net/qq_39938666/article/details/113141651)
 - [#include的路径及顺序](https://blog.csdn.net/luoshabugui/article/details/116136607)
+- [Xcode 读取代码所在目录txt或文件](https://www.cnblogs.com/ZhYQ-Note/articles/14263753.html)

@@ -26,3 +26,5 @@
 - [关于&的引用与取地址 区分](https://blog.csdn.net/qq_39938666/article/details/113141651)
 - [#include的路径及顺序](https://blog.csdn.net/luoshabugui/article/details/116136607)
 - [Xcode 读取代码所在目录txt或文件](https://www.cnblogs.com/ZhYQ-Note/articles/14263753.html)
+- [指针数组与数组指针详解](https://blog.csdn.net/men_wen/article/details/52694069)
+- [main函数的参数](https://blog.csdn.net/feit2417/article/details/80864518)

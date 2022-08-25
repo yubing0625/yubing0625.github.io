@@ -30,3 +30,5 @@
 - [指针数组与数组指针详解](https://blog.csdn.net/men_wen/article/details/52694069)
 - [main函数的参数](https://blog.csdn.net/feit2417/article/details/80864518)
 - [C++无名对象](https://blog.csdn.net/deeplan_1994/article/details/82949694)
+- [如何将typeid().name()输出的单字母缩写改为全称](https://blog.csdn.net/chulinbai/article/details/126275688)
+

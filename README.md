@@ -32,4 +32,4 @@
 - [C++无名对象](https://blog.csdn.net/deeplan_1994/article/details/82949694)
 - [如何将typeid().name()输出的单字母缩写改为全称](https://blog.csdn.net/chulinbai/article/details/126275688)
 - [C++ 使用rand()函数生成随机数](https://blog.csdn.net/qq_21989927/article/details/108936691)
-
+- [C++中左值（引用）及右值（引用）详解](https://blog.csdn.net/weixin_43064827/article/details/120803409)

@@ -34,4 +34,4 @@
 - [C++ 使用rand()函数生成随机数](https://blog.csdn.net/qq_21989927/article/details/108936691)
 - [C++中左值（引用）及右值（引用）详解](https://blog.csdn.net/weixin_43064827/article/details/120803409)
 - [适配器类](https://blog.csdn.net/zhangjing0502/article/details/7035692)
-- [截屏2022-09-22 14.19.10.png](https://s2.loli.net/2022/09/22/nZTCUqk6BPjs2F5.png)
+- [MaoOS命令行处理C++程序](https://s2.loli.net/2022/09/22/nZTCUqk6BPjs2F5.png)

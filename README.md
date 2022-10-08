@@ -35,3 +35,4 @@
 - [C++中左值（引用）及右值（引用）详解](https://blog.csdn.net/weixin_43064827/article/details/120803409)
 - [适配器类](https://blog.csdn.net/zhangjing0502/article/details/7035692)
 - [MaoOS命令行处理C++程序](https://s2.loli.net/2022/09/22/nZTCUqk6BPjs2F5.png)
+- [C++ 内存池介绍与经典内存池的实现](https://blog.csdn.net/K346K346/article/details/49538975)

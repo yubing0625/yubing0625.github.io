@@ -23,6 +23,7 @@
 ---
 - [deltaTime详解](https://blog.csdn.net/ChinarCSDN/article/details/82914420)
 - [弧度、角度](https://www.shuxuele.com/geometry/radians.html)
+- [AABB(axis-aligned bounding box)轴对齐包围盒](https://blog.csdn.net/qq_22822335/article/details/50930437)
 
 ---
 - [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)

@@ -44,3 +44,4 @@
 - [适配器类](https://blog.csdn.net/zhangjing0502/article/details/7035692)
 - [MaoOS命令行处理C++程序](https://s2.loli.net/2022/09/22/nZTCUqk6BPjs2F5.png)
 - [C++ 内存池介绍与经典内存池的实现](https://blog.csdn.net/K346K346/article/details/49538975)
+- [C++11中的原子操作（atomic operation](https://blog.51cto.com/u_15329836/3391947)

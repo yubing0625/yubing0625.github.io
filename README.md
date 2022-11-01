@@ -25,7 +25,7 @@
 - [deltaTime详解](https://blog.csdn.net/ChinarCSDN/article/details/82914420)
 - [弧度、角度](https://www.shuxuele.com/geometry/radians.html)
 - [AABB(axis-aligned bounding box)轴对齐包围盒](https://blog.csdn.net/qq_22822335/article/details/50930437)
-
+- [应该定期更新 Homebrew](https://segmentfault.com/a/1190000004353419)
 ---
 - [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 - [解决Sourcetree 无法获取 GitHub 远端组织中的仓库](https://ganzhixiong.com/p/a1fb3034/)
@@ -45,5 +45,5 @@
 - [MaoOS命令行处理C++程序](https://s2.loli.net/2022/09/22/nZTCUqk6BPjs2F5.png)
 - [C++ 内存池介绍与经典内存池的实现](https://blog.csdn.net/K346K346/article/details/49538975)
 - [C++11中的原子操作（atomic operation](https://blog.51cto.com/u_15329836/3391947)
--[C++20 新特性: modules 及实现现状](https://zhuanlan.zhihu.com/p/350136757)
--[Xcode 快捷键及代码格式化](http://t.zoukankan.com/Free-Thinker-p-7133581.html)
+- [C++20 新特性: modules 及实现现状](https://zhuanlan.zhihu.com/p/350136757)
+- [Xcode 快捷键及代码格式化](http://t.zoukankan.com/Free-Thinker-p-7133581.html)

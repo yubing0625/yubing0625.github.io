@@ -26,6 +26,7 @@
 - [弧度、角度](https://www.shuxuele.com/geometry/radians.html)
 - [AABB(axis-aligned bounding box)轴对齐包围盒](https://blog.csdn.net/qq_22822335/article/details/50930437)
 - [应该定期更新 Homebrew](https://segmentfault.com/a/1190000004353419)
+- [C语言uint8_t、uint32_t、uint64_t的解释](https://blog.csdn.net/BJTUYBYUAN/article/details/108684610)
 ---
 - [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 - [解决Sourcetree 无法获取 GitHub 远端组织中的仓库](https://ganzhixiong.com/p/a1fb3034/)
@@ -48,3 +49,4 @@
 - [C++20 新特性: modules 及实现现状](https://zhuanlan.zhihu.com/p/350136757)
 - [Xcode 快捷键及代码格式化](http://t.zoukankan.com/Free-Thinker-p-7133581.html)
 - [Bjarne Stroustrup's FAQ（中文版）](https://www.stroustrup.com/bsfaqcn.html)
+- [什么是 POD 数据类型？](https://zhuanlan.zhihu.com/p/45545035)

@@ -18,6 +18,7 @@
 ---
 # **重要**
 ---
+- [c++抽象基类需要定义虚析构函数](https://www.cnblogs.com/depend-wind/articles/12256533.html)
 - [软件设计原则之单一职责原则、开闭原则](https://blog.csdn.net/u011303816/article/details/124987774)
 ---
 # **待定**

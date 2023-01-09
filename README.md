@@ -55,3 +55,4 @@
 - [Xcode 快捷键及代码格式化](http://t.zoukankan.com/Free-Thinker-p-7133581.html)
 - [Bjarne Stroustrup's FAQ（中文版）](https://www.stroustrup.com/bsfaqcn.html)
 - [什么是 POD 数据类型？](https://zhuanlan.zhihu.com/p/45545035)
+- [＃ifndef／＃define／＃endif使用详解](https://xmuli.tech/posts/faac52a/)

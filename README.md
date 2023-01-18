@@ -33,6 +33,8 @@
 - [应该定期更新 Homebrew](https://segmentfault.com/a/1190000004353419)
 - [C语言uint8_t、uint32_t、uint64_t的解释](https://blog.csdn.net/BJTUYBYUAN/article/details/108684610)
 ---
+- [C++ STL vector添加元素（push_back()和emplace_back()）详解](http://c.biancheng.net/view/6826.html)
+---
 - [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 - [解决Sourcetree 无法获取 GitHub 远端组织中的仓库](https://ganzhixiong.com/p/a1fb3034/)
 - [如何通俗易懂地理解什么叫泛型？](https://baijiahao.baidu.com/s?id=1668883931864701047&wfr=spider&for=pc)

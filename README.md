@@ -35,6 +35,7 @@
 - [应该定期更新 Homebrew](https://segmentfault.com/a/1190000004353419)
 - [C语言uint8_t、uint32_t、uint64_t的解释](https://blog.csdn.net/BJTUYBYUAN/article/details/108684610)
 ---
+- [C/C++ C++调用用C库函数理解](https://blog.csdn.net/whl0071/article/details/125517301)
 - [C++ STL vector添加元素（push_back()和emplace_back()）详解](http://c.biancheng.net/view/6826.html)
 ---
 - [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)

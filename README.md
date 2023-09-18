@@ -40,6 +40,7 @@
 - [C/C++ C++调用用C库函数理解](https://blog.csdn.net/whl0071/article/details/125517301)
 - [C++ STL vector添加元素（push_back()和emplace_back()）详解](http://c.biancheng.net/view/6826.html)
 ---
+- [随机变量：常见的离散型、连续型随机变量](https://www.woshipm.com/data-analysis/5391963.html)
 - [Google 开源项目风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 - [解决Sourcetree 无法获取 GitHub 远端组织中的仓库](https://ganzhixiong.com/p/a1fb3034/)
 - [如何通俗易懂地理解什么叫泛型？](https://baijiahao.baidu.com/s?id=1668883931864701047&wfr=spider&for=pc)
